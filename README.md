@@ -11,7 +11,7 @@ even the smallest llm.
 
 ## Directory Structure
 
-- `eidolon_resources`: This directory contains additional resources for the project. An example agent is provided for reference.
+- `resources`: This directory contains additional resources for the project. An example agent is provided for reference.
 - `components`: This directory is where any custom code should be placed.
 
 ## Running the Server in Docker
